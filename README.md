@@ -7,11 +7,11 @@ Sou desenvolvedor Android e apaixonado por tecnologia.
 - Desenvolvimento Android (Java e Kotlin)
 - Git e GitHub
 - Firebase, SQLite e SQL
+- APIs com Retrofit, Coroutines
 <!--
 - Arquiteturas MVC, MVP, MVVM
 - Clean Architecture
 - Injeção de dependências com Hilt
-- APis com Retrofit, Coroutines
 - Service e Broadcast
 - SOLID
 - Jetpack (LiveData, DataBinding, ViewModel, Room, WorkManager, Navigation e Compose)
