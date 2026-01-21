@@ -8,8 +8,8 @@ Sou desenvolvedor Android e apaixonado por tecnologia.
 - Git e GitHub
 - Firebase, SQLite e SQL
 - APIs com Retrofit, Coroutines
-<!--
 - Arquiteturas MVC, MVP, MVVM
+<!--
 - Clean Architecture
 - Injeção de dependências com Hilt
 - Service e Broadcast
